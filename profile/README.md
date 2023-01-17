@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Our public profile is under construction. In the meantime visit our webiste at: https://www.oscillapower.com
+
 <!--
 
 **Here are some ideas to get you started:**
